@@ -1,6 +1,6 @@
 # GameHub
 
-GameHub is a web application designed to help you discover new and exciting video games. You can search for games based on different platforms, genres, and other criteria. This project was built as part of the Ultimate React course by [Mosh Hamedani](https://codewithmosh.com/p/ultimate-react-part2).
+GameHub is a web application designed to help you discover new and exciting video games. You can search for games based on different platforms, genres, and other criteria.
 
 ## Getting Started
 
